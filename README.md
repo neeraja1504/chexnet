@@ -1,1 +1,2 @@
-# chexnet
+# Pneumonia Detection using X-rays
+Created a CNN model and used images of X-rays to determine whether the person has the disease or not.
